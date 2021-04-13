@@ -5,7 +5,7 @@
   .size {
     width: 40px;
     text-align: center;
-    vertical-align: middle;
+    
     line-height: 2.6em;
   }
   
@@ -15,9 +15,9 @@
   
   .overlay {
     position: absolute;
-    bottom: 0px;
-    left: 14px;
-    right: -2px;
+    bottom: -4px;
+    left: 7px;
+    right: -10px;
   }
   
   .overlay p {
@@ -28,9 +28,9 @@
   
   .arrow {
     position: absolute;
-    bottom: 5px;
-    right: 22px;
-    width: 30px;
+    bottom: 0px;
+    right: 14px;
+    width: 33px;
     height: 30px;
     text-align: center;
     color: white;
@@ -41,7 +41,7 @@
     line-height: 2rem;
   }
   
-  .c-img {
+  .circle {
     position: absolute;
     bottom: 50%;
     right: 40%;
